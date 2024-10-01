@@ -1,5 +1,5 @@
 {
-  "name": "r2hsc",
+  "name": "r2hsl",
   "version": "1.0.0",
   "description": "rgb to hsl in cli",
   "main": "index.js",
@@ -7,7 +7,7 @@
   "author": "love1ace",
   "repository": {
     "type": "git",
-    "url": "https://github.com/love1ace/r2hsc.git"
+    "url": "https://github.com/love1ace/r2hsl.git"
   },
   "keywords": [
     "rgb",
@@ -19,16 +19,16 @@
     "love1ace"
   ],
   "bugs": {
-    "url": "https://github.com/love1ace/r2hsc/issues"
+    "url": "https://github.com/love1ace/r2hsl/issues"
   },
   "files": [
     "index.js",
     "README.md",
     "LICENSE"
   ],
-  "homepage": "https://github.com/love1ace/r2hsc#readme",
+  "homepage": "https://github.com/love1ace/r2hsl#readme",
   "bin": {
-    "r2hsc": "index.js"
+    "r2hsl": "index.js"
   },
   "dependencies": {},
   "devDependencies": {},
