@@ -1,17 +1,17 @@
-# r2hsl
+# rgb-to-hsl-cli
 
-**r2hsl** is a CLI tool that converts rgb to hsl.
+**rgb-to-hsl-cli** is a CLI tool that converts rgb to hsl.
 
-![npm](https://img.shields.io/npm/v/r2hsl)
-![license](https://img.shields.io/npm/l/r2hsl)
+![npm](https://img.shields.io/npm/v/rgb-to-hsl-cli)
+![license](https://img.shields.io/npm/l/rgb-to-hsl-cli)
 
 ## Quick Start
 
-Get **r2hsl** up and running quickly!
+Get **rgb-to-hsl-cli** up and running quickly!
 
 1. **Run**:
     ```bash
-    npx r2hsl 255 129 110
+    npx rgb-to-hsl-cli 255 129 110
     ```
 2. **Done!**
 
@@ -27,7 +27,7 @@ This will convert the RGB values `(255, 129, 110)` to its HSL equivalent, and di
 
 ## Contributing
 
-We welcome contributions to **r2hsl**! Whether it's reporting a bug, suggesting an enhancement, or submitting a pull request, your input is valued.
+We welcome contributions to **rgb-to-hsl-cli**! Whether it's reporting a bug, suggesting an enhancement, or submitting a pull request, your input is valued.
 
 ## License
 

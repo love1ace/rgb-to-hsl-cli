@@ -1,5 +1,5 @@
 {
-  "name": "r2hsl",
+  "name": "rgb-to-hsl-cli",
   "version": "1.0.0",
   "description": "rgb to hsl in cli",
   "main": "index.js",
@@ -7,7 +7,7 @@
   "author": "love1ace",
   "repository": {
     "type": "git",
-    "url": "https://github.com/love1ace/r2hsl.git"
+    "url": "https://github.com/love1ace/rgb-to-hsl-cli.git"
   },
   "keywords": [
     "rgb",
@@ -19,16 +19,16 @@
     "love1ace"
   ],
   "bugs": {
-    "url": "https://github.com/love1ace/r2hsl/issues"
+    "url": "https://github.com/love1ace/rgb-to-hsl-cli/issues"
   },
   "files": [
     "index.js",
     "README.md",
     "LICENSE"
   ],
-  "homepage": "https://github.com/love1ace/r2hsl#readme",
+  "homepage": "https://github.com/love1ace/rgb-to-hsl-cli#readme",
   "bin": {
-    "r2hsl": "index.js"
+    "rgb-to-hsl-cli": "index.js"
   },
   "dependencies": {},
   "devDependencies": {},
