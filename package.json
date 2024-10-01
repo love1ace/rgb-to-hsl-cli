@@ -1,0 +1,38 @@
+{
+  "name": "r2hsc",
+  "version": "1.0.0",
+  "description": "rgb to hsl in cli",
+  "main": "index.js",
+  "license": "MIT",
+  "author": "love1ace",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/love1ace/r2hsc.git"
+  },
+  "keywords": [
+    "rgb",
+    "hsl",
+    "converter",
+    "cli",
+    "front-end",
+    "back-end",
+    "love1ace"
+  ],
+  "bugs": {
+    "url": "https://github.com/love1ace/r2hsc/issues"
+  },
+  "files": [
+    "index.js",
+    "README.md",
+    "LICENSE"
+  ],
+  "homepage": "https://github.com/love1ace/r2hsc#readme",
+  "bin": {
+    "r2hsc": "index.js"
+  },
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "start": "node index.js"
+  }
+}
